@@ -1,0 +1,17 @@
+.Sniper {
+  font-family: 'Dancing Script', cursiva;
+  font-size: 3rem;
+  text-align: center;
+}
+.frase {
+  text-align: center;
+}
+.fotosobre img {
+ border-radius: 100%;
+ height: 250px;
+ object-fit: cover;
+ width: 250px;
+ border-top: double;
+ border-color: blue;
+ 
+}
